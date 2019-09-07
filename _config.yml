@@ -1,0 +1,11 @@
+# Site settings
+title: Naturopathe à Paris, Chatou et alentours - Magali Mâne-Billiet
+email: magali@manebilliet.com
+description: >
+  Apprendre ou redécouvrir des petits gestes pour améliorer son terrain et garder la forme.
+  Prévenir et faire de la santé au quotidien, reste la meilleure façon de s'opposer à la maladie.
+baseurl: ""
+url: "https://www.manebilliet.com"
+
+# Build settings
+markdown: kramdown
