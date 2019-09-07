@@ -1,11 +1,14 @@
 <!DOCTYPE html>
-<html>
+<html lang="fr">
 
   {% include head.html %}
 
   <body class="no-sidebar">
 
     {% include header.html %}
+    {% if page.banner %}
+        {%include banner.html %}
+    {% endif %}
     <div class="page-content">
         {{ content }}
     </div>

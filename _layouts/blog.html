@@ -5,7 +5,7 @@ layout: default
 <article id="main">
     <header class="special container">
         <span class="icon fa-mobile"></span>
-        <h2>My <strong>Blog</strong></h2>
+        <h2><strong>{{ page.title }}</strong></h2>
     </header>
     <section class="wrapper style4 container">
         <ul class="posts">
@@ -15,7 +15,7 @@ layout: default
                 {{ post.excerpt }}
                 <section class="special">
                     <ul class="buttons">
-                        <li><a href="{{ post.url }}" class="button">Read more</a></li>
+                        <li><a href="{{ post.url }}" class="button">Lire la suite</a></li>
                     </ul></section>
             </li>
           {% endfor %}

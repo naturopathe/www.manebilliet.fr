@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<article id="main">
+{% if page.special %}
+	<header class="special container">
+		<span class="icon fa-{{ page.special.icon | default: 'mobile' }}"></span>
+		<h2>{{ page.special.title }}</h2>
+		{% if page.special.text %}
+			<p>{{ page.special.text }}</p>
+		{% endif %}
+	</header>
+{% endif %}
+{% if content %}
+	<section class="wrapper style4 container">
+		<div class="content">
+			<section>
+				{% if page.image %}
+				<a href="{{ page.image.link }}" class="image featured"><img src="{{ page.image.url }}" alt="{{ page.image.alt }}" /></a>
+				{% endif %}
+				{{ content }}
+			</section>
+		</div>
+	</section>
+{% endif %}
+</article>
