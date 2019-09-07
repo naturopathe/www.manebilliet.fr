@@ -4,5 +4,8 @@ email: magali@manebilliet.com
 description: Naturopathie, consultation en cabinet ou à domicile, massage bien-être ou drainant, conférences et ateliers gestion du stress en entreprise ou pour les particuliers...
 url: 'https://www.manebilliet.fr'
 
+plugins:
+  - jekyll-sitemap
+
 # Build settings
 #markdown: kramdown
