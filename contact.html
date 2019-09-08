@@ -6,7 +6,15 @@ description: Contactez ou prenez rendez-vous en ligne avec une Naturopathe certi
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <script>
 function onSubmit(token) {
-	document.getElementById("contact-form").submit();
+    form = document.getElementById("contact-form");
+    if (form.checkValidity()) {
+        return form.submit();
+    }
+    $('#contact-form input,textarea').each(function (i, nput) {
+        if (!nput.checkValidity()) nput.style.borderColor='red';
+    });
+    $('#contact-form input,textarea').on('change', function (e) { if (e.target.checkValidity()) e.target.style.borderColor=''; else e.target.style.borderColor='red'; });
+    $('#contact-form input,textarea').on('keyup', function (e) { if (e.target.checkValidity()) e.target.style.borderColor=''; });
 }
 </script>
 <style>
@@ -40,17 +48,17 @@ function onSubmit(token) {
 				</div>
 				<div class="row half">
 					<div class="12u">
-						<input type="email" name="email" placeholder="Adresse e-mail" />
+						<input required type="email" name="email" placeholder="Adresse e-mail" />
 					</div>
 					<div class="12u">
 						<input type="tel" name="tel" placeholder="Numéro de téléphone" />
 					</div>
 					<div class="12u">
 						<input type="hidden" name="_gotcha" />
-						<input type="text" name="subject" placeholder="Objet" />
+						<input required type="text" name="subject" placeholder="Objet" />
 					</div>
 					<div class="12u">
-						<textarea name="message" placeholder="Message" rows="7"></textarea>
+						<textarea required name="message" placeholder="Message" rows="7"></textarea>
 					</div>
 				</div>
 				<div class="row">
