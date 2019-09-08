@@ -4,6 +4,16 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+@media screen and (min-width: 840px) and (max-width: 1150px) {
+	#header nav ul li#nav-item-home { display: none; }
+}
+@media screen and (min-width: 840px) and (max-width: 1080px) {
+	#header h1#logo a span { display: none; }
+}
+@media screen and (min-width: 840px) and (max-width: 970px) {
+	#header nav ul li#nav-item-2 { display: none; }
+}
+
 /* Basic */
 
 	body, input, select, textarea {

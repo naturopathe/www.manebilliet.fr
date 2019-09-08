@@ -1,7 +1,6 @@
 ---
 layout: default
 banner: on
-description: ''
 ---
 
 {% capture apropos %}
@@ -18,7 +17,7 @@ description: ''
 
 <article id="main">
 
-	<header class="special container">
+	<header class="special container" style="text-align: left;">
 		<span class="icon fa-pagelines"></span>
 		{{ apropos | markdownify }}
 	</header>
@@ -28,51 +27,46 @@ description: ''
 			<div class="12u">
 				{{ naturopathie | markdownify }}
 				<ul class="buttons">
-					<li><a href="/naturopathie" class="button" title="En savoir plus sur la naturopathie...">En savoir plus...</a></li>
+					<li><a href="/naturopathie" class="button" title="En savoir plus sur la naturopathie&hellip;">En savoir plus&hellip;</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 
-{% comment %}
 	<section class="wrapper style1 container special">
 		<div class="row">
-			<div class="4u">
-			
+			<div class="4u" style="cursor:pointer" onclick="location.href='/consulter-un-naturopathe'">
 				<section>
-					<span class="icon featured fa-check"></span>
+					<span class="icon featured fa-user"></span>
 					<header>
-						<h3>This is Something</h3>
+						<h3><a href="/consulter-un-naturopathe">Consultations</a></h3>
 					</header>
-					<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
+					<p>Découvrez le déroulement d'une consultation de naturopathie&nbsp;: Première consultation, Consultation de suivi ou Forfait&hellip;</p>
 				</section>
-			
 			</div>
-			<div class="4u">
-			
+			<div class="4u" style="cursor:pointer" onclick="location.href='/consulter-un-naturopathe#massages-bien-être--reflexo'">
 				<section>
-					<span class="icon featured fa-check"></span>
+					<span class="icon featured fa-leaf"></span>
 					<header>
-						<h3>Also Something</h3>
+						<h3><a href="/consulter-un-naturopathe#massages-bien-être--reflexo">Massages / Réfléxologie</a></h3>
 					</header>
-					<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
+					<p>Prendre un moment pour soi, se reconnecter à son corps et prendre soin de lui&hellip;</p>
 				</section>
-			
 			</div>
-			<div class="4u">
-			
+			<div class="4u" style="cursor:pointer" onclick="location.href='/naturopathe-en-entreprise'">
 				<section>
-					<span class="icon featured fa-check"></span>
+					<span class="icon featured fa-users"></span>
 					<header>
-						<h3>Probably Something</h3>
+						<h3><a href="/naturopathe-en-entreprise">Interventions en entreprise</a></h3>
 					</header>
-					<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
+					<p>Pour améliorer les performances et atteindre les objectifs, je propose des ateliers, des conférences et des séances de massages&hellip;</p>
 				</section>
 			
 			</div>
 		</div>
 	</section>
-	
+
+{% comment %}
 	<section class="wrapper style3 container special">
 	
 		<header class="major">
