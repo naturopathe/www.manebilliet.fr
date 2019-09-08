@@ -1,5 +1,6 @@
 ---
 layout: content
+sitemap: false
 title: Mentions légales
 #banner: on
 special:
