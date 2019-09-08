@@ -10,7 +10,7 @@ function onSubmit(token) {
 }
 </script>
 
-<a href="{{ site.doctolib.link }}" style="color:#fff" data-reactroot=""><div style="display:block;text-align:center;background-color:#0596DE;color:#ffffff;font-size:14px;overflow:hidden;width:100%;height:44px;line-height:44px;padding:none;position:fixed;z-index:100;top:48px;right:0;left:0"><img style="height:23px;float:left;margin:10px 5px 0 5px;vertical-align:middle;width:auto" src="https://pro.doctolib.fr/external_button/doctolib-white-transparent.png" alt="Doctolib"/><span style="display:block;float:left">Prendre rendez-vous en ligne</span><button type="button" style="display:block;width:176px;height:34px;border-radius:4px;background-color:#ffffff;line-height:32px;color:#0596DE;margin:0 auto;text-transform:uppercase;float:right;margin-top:5px;margin-right:5px">Cliquez ici</button></div></a>
+<a href="{{ site.doctolib.link }}" style="color:#fff" data-reactroot=""><div style="display:block;text-align:center;background-color:#0596DE;color:#ffffff;font-size:14px;overflow:hidden;width:100%;height:44px;line-height:44px;padding:none;position:fixed;z-index:100;bottom:0;right:0;left:0"><img style="height:23px;float:left;margin:10px 5px 0 5px;vertical-align:middle;width:auto" src="https://pro.doctolib.fr/external_button/doctolib-white-transparent.png" alt="Doctolib"/><span style="display:block;float:left">Prendre rendez-vous en ligne</span><button type="button" style="display:block;width:176px;height:34px;border-radius:4px;background-color:#ffffff;line-height:32px;color:#0596DE;margin:0 auto;text-transform:uppercase;float:right;margin-top:5px;margin-right:5px">Cliquez ici</button></div></a>
 
 <article id="main">
 	<header class="special container">
@@ -19,12 +19,12 @@ function onSubmit(token) {
                 <p>
 			Vous pouvez m'envoyer un message avec ce formulaire,<br/>
 			prendre directement <a href="{{ site.doctolib.link }}">rendez-vous en ligne avec Doctolib</a><br/>
-			ou me contacter par téléphone au <a href="tel:+33766807176">07 66 80 71 76"</a>
+			ou me contacter par téléphone au <a href="tel:+33766807176">07 66 80 71 76</a>
                 </p>
 	</header>
 	<section class="wrapper style4 special container small">
 		<div class="content">
-			<form id="contact-form" action="https://getform.io/f/3528b356-17ce-441d-9ed3-f129a23453eb" method="POST">
+			<form id="contact-form" action="https://usebasin.com/f/68096f09d06a" method="POST">
 				<div class="row half collapse-at-2">
 					<div class="6u">
 						<input type="text" name="firstname" placeholder="Prénom" />
@@ -35,12 +35,13 @@ function onSubmit(token) {
 				</div>
 				<div class="row half">
 					<div class="12u">
-						<input type="text" name="email" placeholder="Adresse e-mail" />
+						<input type="email" name="email" placeholder="Adresse e-mail" />
 					</div>
 					<div class="12u">
-						<input type="text" name="tel" placeholder="Numéro de téléphone" />
+						<input type="tel" name="tel" placeholder="Numéro de téléphone" />
 					</div>
 					<div class="12u">
+						<input type="hidden" name="_gotcha" />
 						<input type="text" name="subject" placeholder="Objet" />
 					</div>
 					<div class="12u">
@@ -51,7 +52,7 @@ function onSubmit(token) {
 					<div class="12u">
 						<ul class="buttons">
 							<li>
-								<input type="button" class="special g-recaptcha" data-sitekey="6LfZOLcUAAAAABOkmbke6wgPGqGM6w_eNzE5Zb6e" data-callback="onSubmit" value="Envoyer" />
+								<input type="button" class="special g-recaptcha" data-sitekey="6Lew3SMUAAAAAJ82QoS7gqOTkRI_dhYrFy1f7Sqy" data-callback="onSubmit" value="Envoyer" />
 							</li>
 						</ul>
 					</div>
