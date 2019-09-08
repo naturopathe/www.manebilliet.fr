@@ -12,6 +12,10 @@ description: ''
 {% include textes/naturopathie.md %} 
 {% endcapture %}
 
+{% capture entreptrise %}
+{% include textes/entreprise.md %} 
+{% endcapture %}
+
 <article id="main">
 
 	<header class="special container">
@@ -24,12 +28,11 @@ description: ''
 			<div class="12u">
 				{{ naturopathie | markdownify }}
 				<ul class="buttons">
-					<li><a href="/naturopathie.html" class="button" title="En savoir plus sur la naturopathie...">En savoir plus...</a></li>
+					<li><a href="/naturopathie" class="button" title="En savoir plus sur la naturopathie...">En savoir plus...</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
-
 
 {% comment %}
 	<section class="wrapper style1 container special">
@@ -70,7 +73,6 @@ description: ''
 		</div>
 	</section>
 	
-<!-- Three -->
 	<section class="wrapper style3 container special">
 	
 		<header class="major">
@@ -140,7 +142,6 @@ description: ''
 
 <!-- CTA -->
 <section id="cta">
-
 {% comment %}
 <header>
 	<h2>Ready to do <strong>something</strong>?</h2>
@@ -153,6 +154,5 @@ description: ''
 	</ul>
 </footer>
 {% endcomment %}
-
 </section>
 
