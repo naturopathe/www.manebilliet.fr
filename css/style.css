@@ -747,6 +747,9 @@ article h3 {
 
 /* Blog */
 
+ul.posts {
+    list-style: none;
+}
 .post-next {
     float: right;
     margin-right: 3em;
