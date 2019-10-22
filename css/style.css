@@ -844,7 +844,7 @@ ul.posts {
 			-o-animation-fill-mode: forwards;
 			-ms-animation-fill-mode: forwards;
 			animation-fill-mode: forwards;
-			background: rgba(52, 27, 43, 0.5);
+			background: rgba(30, 40, 30, 0.4);
 			color: white;
 			display: inline-block;
 			opacity: 0;
