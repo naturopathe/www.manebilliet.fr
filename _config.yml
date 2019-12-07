@@ -3,7 +3,10 @@ title: Naturopathe à Chatou et alentours, Naturopathe à Paris
 email: magali@manebilliet.com
 description: Naturopathie, consultation en cabinet ou à domicile, massage bien-être ou drainant, conférences et ateliers gestion du stress en entreprise ou pour particuliers...
 url: 'https://www.manebilliet.fr'
-author: Magali MANE-BILLIET
+author:
+  name: Magali MANE-BILLIET
+  picture: /naturopathe.jpg
+  twitter: 33magmag
 twitter:
   username: 33magmag
   card: summary
@@ -11,6 +14,7 @@ facebook:
   app_id:
   publisher:
   admins:
+image: /naturopathe.jpg
 logo: /naturopathe.jpg
 social:
   name: Naturopathe à Chatou et alentours, Naturopathe à Paris
