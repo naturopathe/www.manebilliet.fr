@@ -1,4 +1,4 @@
-## Je suis naturopathe, formée à l’Institut Supérieur de Naturopathe de Paris (ISUPNAT), certifiée FENA (Fédération Française des Ecoles de Naturopathie) et membre de l’OMNES (Organisation de la Médecine Naturelle et de l’Education Sanitaire). 
+## Je suis naturopathe, formée à l’Institut Supérieur de Naturopathie de Paris ([ISUPNAT](https://isupnat-naturopathie.fr/)), certifiée [FENA](http://lafena.fr/ "Fédération Française des Ecoles de Naturopathie") et membre de l’[OMNES](https://www.omnes.fr/ "Organisation de la Médecine Naturelle et de l’Education Sanitaire")
 
 Je suis formée à l'utilisation des plantes médicinales et comestibles, avec la formation “le chemin de la nature”.
 
