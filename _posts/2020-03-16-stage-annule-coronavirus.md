@@ -2,7 +2,7 @@
 layout: post
 title:  Stage annulé en cette période de coronavirus
 date:   2020-03-16 14:00:00+02
-icon: leaf
+icon:   users
 permalink: /blog/stage-yoga-naturopathe-annule-covid19
 ---
 <span class="image featured"><img src="/images/week-end-yoga-naturo-detox.jpg" alt="Photo week-end Yoga-Naturopathie-Détox">
