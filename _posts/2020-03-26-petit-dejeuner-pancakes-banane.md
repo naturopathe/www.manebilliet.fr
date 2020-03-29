@@ -4,6 +4,7 @@ title:  'Idée petit déjeuner sain et complet : pancakes à la banane'
 date:   2020-03-26 14:00:00+02
 icon: leaf
 permalink: /blog/idee-petit-dejeuner-sain-et-complet-pancakes-a-la-banane
+image: /images/petit-dejeuner-pancakes-banane.jpg
 ---
 <span class="image featured"><img src="/images/petit-dejeuner-pancakes-banane.jpg" alt="Photo de Pancakes à la banane">
   &copy; Aude LEROY

@@ -4,6 +4,7 @@ title:  Idée petit déjeuner santé, revitalisant et facile à faire
 date:   2020-03-24 14:00:00+02
 icon: leaf
 permalink: /blog/idee-petit-dejeuner-sante-revitalisant-et-facile-a-faire
+image: /images/petit-dejeuner-orange-banane-pollen.jpg
 ---
 <span class="image featured"><img src="/images/petit-dejeuner-orange-banane-pollen.jpg" alt="Photo de petit déjeuner orange banane pollen"></span>
 - une banane coupée en rondelles, 

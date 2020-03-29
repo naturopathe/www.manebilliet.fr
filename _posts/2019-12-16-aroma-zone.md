@@ -4,6 +4,7 @@ title:  Retrouvez-moi chez Aroma Zone Odéon, à Paris
 date:   2019-12-16 14:00:00+02
 icon: leaf
 permalink: /blog/magali-chez-aroma-zone-odeon-paris
+image: /images/magali-chez-aroma-zone-paris-odeon.jpg
 ---
 <span class="image featured"><img src="/images/magali-chez-aroma-zone-paris-odeon.jpg" alt="Photo de Magali Mâne-Billiet, Natoropathe chez Aroma Zone Paris Odéon"></span>
 Retrouvez-moi chez Aroma Zone Odéon, à Paris (métro odéon, ligne 4) tous les mardis et certains samedis. 

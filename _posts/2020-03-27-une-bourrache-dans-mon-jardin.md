@@ -4,6 +4,7 @@ title:  Une magnifique bourrache dans mon jardin !
 date:   2020-03-27 14:00:00+02
 icon:   pagelines
 permalink: /blog/magnifique-bourrache-dans-mon-jardin
+image: /images/bourrache-dans-mon-jardin.jpg
 ---
 <span class="image featured"><img src="/images/bourrache-dans-mon-jardin.jpg" alt="Photo de bourrache dans mon jardin"></span>
 
