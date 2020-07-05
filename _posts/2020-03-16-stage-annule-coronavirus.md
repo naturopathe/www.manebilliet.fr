@@ -6,9 +6,9 @@ icon:   users
 permalink: /blog/stage-yoga-naturopathe-annule-covid19
 image: /images/week-end-yoga-naturo-detox.jpg
 ---
-<span class="image featured"><img src="/images/week-end-yoga-naturo-detox.jpg" alt="Photo week-end Yoga-Naturopathie-Détox">
+<a href="{{page.permalink}}" class="image featured"><img src="/images/week-end-yoga-naturo-detox.jpg" alt="Photo week-end Yoga-Naturopathie-Détox">
   &copy; ravinbleu.org
-</span>
+</a>
 Notre week-end Yoga-Naturopathie-Détox, initialement prévu du 20 au 22 mars
 à La Ferme du Ravin Bleu (77)
 est annulé.
@@ -33,4 +33,3 @@ Une détoxination a pour objectif de nettoyer ces liquides afin de permettre à 
 L’équinoxe de printemps est le moment idéal pour faire le ménage, au sortir de l’hiver où les repas ont été plus riches et l’activité physique moindre !
 
 Plus d'infos sur : [irisyoga.fr](https://irisyoga.fr/weekend-stage-yoga-naturopathie-detox/)
-

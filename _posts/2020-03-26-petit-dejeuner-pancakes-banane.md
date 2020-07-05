@@ -6,11 +6,11 @@ icon: leaf
 permalink: /blog/idee-petit-dejeuner-sain-et-complet-pancakes-a-la-banane
 image: /images/petit-dejeuner-pancakes-banane.jpg
 ---
-<span class="image featured"><img src="/images/petit-dejeuner-pancakes-banane.jpg" alt="Photo de Pancakes à la banane">
+<a href="{{page.permalink}}" class="image featured"><img src="/images/petit-dejeuner-pancakes-banane.jpg" alt="Photo de Pancakes à la banane">
   &copy; Aude LEROY
-</span>
+</a>
 (sans gluten, sans oeuf et sans lactose)  
-  
+
 Ces pancakes rapides à faire, font le bonheur des petits et des grands.
 Fait avec de la farine de sarrasin, ils sont gourmands, digestes, bien dotés en fibres, protéines, magnesium et ont un index glycémique bas.
 
@@ -29,6 +29,6 @@ Recette (12 pancakes environ) :
 - 1 cc bombee d'huile de coco
 
 Commencer par écraser la banane à la fourchette, la mélanger avec le lait, le vinaigre et le sucre. Puis verser la farine et le bicarbonate. Bien mélanger le tout.  
-Cuisson à la poele avec l'huile de coco, 2 min de chaque coté afin qu'ils soient bien dorés. 
+Cuisson à la poele avec l'huile de coco, 2 min de chaque coté afin qu'ils soient bien dorés.
 
 Regalez-vous !

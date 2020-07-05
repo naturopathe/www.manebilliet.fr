@@ -1,0 +1,12 @@
+{% if content.size > 1 %}
+	<section class="wrapper style4 container">
+		<div class="content">
+			<section>
+				{% if page.image %}
+				<a href="{{ page.image.link }}" class="image featured"><img src="{{ page.image.url }}" alt="{{ page.image.alt }}" /></a>
+				{% endif %}
+				{{ content }}
+			</section>
+		</div>
+	</section>
+{% endif %}

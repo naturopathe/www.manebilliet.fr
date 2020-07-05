@@ -1,0 +1,9 @@
+{% if page.special %}
+	<header class="special container">
+		<span class="icon fa-{{ page.special.icon | default: 'mobile' }}"></span>
+		<h2>{{ page.special.title }}</h2>
+		{% if page.special.text %}
+			<p>{{ page.special.text }}</p>
+		{% endif %}
+	</header>
+{% endif %}
