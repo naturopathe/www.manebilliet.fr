@@ -68,10 +68,10 @@ Massage doux et profond du ventre, grand siège de nos émotions. Il se concentr
 ### Pieds-mains-Crâne* : 1h
 Ce massage se concentre spécifiquement sur les mains, les pieds et le crane. Ces parties du corps sont très riches en terminaisons nerveuse et permettent d’obtenir une détente rapide et profonde de l’organisme.
 
-* Massages bien-être-naturopathiques, sans visées thérapeutiques ou médicales. La durée inclue le temps d’installation. Attitude correcte et respectueuse exigée.
+\* Massages bien-être-naturopathiques, sans visées thérapeutiques ou médicales. La durée inclue le temps d’installation. Attitude correcte et respectueuse exigée.  
 Durée de validité des carnets : 1 an, à compter de la date de règlement.
 
-* Huiles végétales utilisées :
+\* Huiles végétales utilisées :
 - sésame bio : très nourrissante, régénérante et antioxydante. Sa texture fluide et pénétrante est idéale pour les massages.
 - huiles de soin massage neutre, du sportif ou relaxant, marque Aroma Zone
 - préparation personnalisée d’huile végétale + huiles essentielles : + 5€
@@ -79,7 +79,7 @@ Durée de validité des carnets : 1 an, à compter de la date de règlement.
 ## SOIN VISAGE (Ko Bi Do)*
 ### 1h : 80€ / carnet de 5 : 360 € / carnet de 10 : 720 €
 
-Massage manuel du visage aux effets repulpant et anti-âge. Tous les muscles du visage sont pétris en profondeur sur chaque centimètre carré afin de donner un effet lifting. Les cellules sont mieux oxygénées et la production de collagène et d’élastine est stimulée.
+Massage manuel du visage aux effets repulpant et anti-âge. Tous les muscles du visage sont pétris en profondeur sur chaque centimètre carré afin de donner un effet lifting. Les cellules sont mieux oxygénées et la production de collagène et d’élastine est stimulée.  
 Utilisation d’huiles végétales bios de jojoba ou argan.
 
 Carnet de 5 massages : 50 % de remise sur le 5eme massage  
