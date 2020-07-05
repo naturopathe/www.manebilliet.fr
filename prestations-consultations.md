@@ -1,10 +1,13 @@
 ---
-layout: content
+layout: prestation
 title: Consultations de naturopathie à Paris, Chatou et alentours
 special:
   icon: user
-  title: Consultations
+  title: Prestations
+permalink: /consulter-un-naturopathe
 ---
+
+## CONSULTATIONS
 
 ### Consultation - Bilan de vitalité : 1h30 - 80€
 L’objectif de cette première séance est d’évaluer votre terrain, vos forces, vos fragilités, la nature des toxines et la capacité d’élimination des organes émonctoires  L’approche est holistique et prend  en compte votre physiologie, mental, votre motivation et votre environnement.

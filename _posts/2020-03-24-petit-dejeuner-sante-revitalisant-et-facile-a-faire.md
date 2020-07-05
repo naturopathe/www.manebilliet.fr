@@ -6,11 +6,11 @@ icon: leaf
 permalink: /blog/idee-petit-dejeuner-sante-revitalisant-et-facile-a-faire
 image: /images/petit-dejeuner-orange-banane-pollen.jpg
 ---
-<span class="image featured"><img src="/images/petit-dejeuner-orange-banane-pollen.jpg" alt="Photo de petit déjeuner orange banane pollen"></span>
-- une banane coupée en rondelles, 
-- une orange séparée en quartiers (coupés ou non), 
-- une cs de pollen 
-- une poignée d'oléagineux. 
+<a href="{{page.permalink}}" class="image featured"><img src="/images/petit-dejeuner-orange-banane-pollen.jpg" alt="Photo de petit déjeuner orange banane pollen"></a>
+- une banane coupée en rondelles,
+- une orange séparée en quartiers (coupés ou non),
+- une cs de pollen
+- une poignée d'oléagineux.
 
 Et hop c'est prêt,
 
