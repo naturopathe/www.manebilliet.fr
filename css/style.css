@@ -17,14 +17,14 @@ html {
     scroll-behavior: smooth;
 }
 
-article h2 {
+article section h2 {
 		padding-top: 3em;
-		margin-top: -1em;
+		margin-top: -2.2em;
 }
 
-article h3 {
+article section h3 {
 		padding-top: 3em;
-		margin-top: -1em;
+		margin-top: -2.2em;
 }
 
 	body, #skel-layers-wrapper {

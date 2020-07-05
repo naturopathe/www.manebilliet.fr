@@ -7,7 +7,7 @@ special:
 permalink: /prestations-de-naturopathie/gestion-du-stress-forfaits
 ---
 
-## FORFAITS :
+## FORFAITS
 ### FORFAIT GESTION DU STRESS*
 Vous vous sentez tendu(e), fatigué(é), parfois irritable ?  
 Vous rencontrez des troubles du sommeil voire de l’alimentation. Ces perturbations peuvent être liées à du surmenage et du stress. Ces séances contiennent plusieurs approches et outils qui vous aideront à retrouver le chemin de la détente.

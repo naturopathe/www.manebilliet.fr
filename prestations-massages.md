@@ -8,7 +8,7 @@ permalink: /prestations-de-naturopathie/massages
 ---
 
 
-## MASSAGES :
+## MASSAGES
 
 30 min : 40 € / carnet de 5 : 180€  
 45 min : 50 € / carnet de 5 : 225 €  
