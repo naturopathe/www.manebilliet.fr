@@ -13,8 +13,12 @@ html {
     scroll-behavior: smooth;
 }
 
+article h2 {
+    margin-top: 1em;
+}
+
 article h3 {
-    padding-top: 50px;
+    margin-top: 1em;
 }
 
 	body, #skel-layers-wrapper {

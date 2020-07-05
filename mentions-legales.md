@@ -18,4 +18,4 @@ Hébergement&nbsp;: Github Pages – 88 Colin P Kelly Junior Street, San Francis
 
 ### Cookies
 
-Ce site n'utilise pas de cookie, à l'exception de la page contact surlaquelle Google Recaptcha est utilisé pour protégéer le formulaire.
+Ce site n'utilise pas de cookie, à l'exception de la page contact sur laquelle Google reCaptcha est utilisé pour protéger le formulaire.

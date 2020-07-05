@@ -4,15 +4,15 @@ banner: on
 ---
 
 {% capture apropos %}
-{% include textes/a-propos.md %} 
+{% include textes/a-propos.md %}
 {% endcapture %}
 
 {% capture naturopathie %}
-{% include textes/naturopathie.md %} 
+{% include textes/naturopathie.md %}
 {% endcapture %}
 
 {% capture entreptrise %}
-{% include textes/entreprise.md %} 
+{% include textes/entreprise.md %}
 {% endcapture %}
 
 <article id="main">
@@ -21,7 +21,7 @@ banner: on
 		<span class="icon fa-pagelines"></span>
 		{{ apropos | markdownify }}
 	</header>
-					
+
 	<section class="wrapper style2 container special-alt">
 		<div class="row half">
 			<div class="12u">
@@ -35,47 +35,47 @@ banner: on
 
 	<section class="wrapper style1 container special">
 		<div class="row">
-			<div class="4u" style="cursor:pointer" onclick="location.href='/consulter-un-naturopathe'">
+			<div class="4u" style="cursor:pointer" onclick="location.href='/prestations-de-naturopathie'">
 				<section>
-					<span class="icon featured fa-user"></span>
+					<span class="icon featured fa-user" style="cursor:pointer"></span>
 					<header>
-						<h3><a href="/consulter-un-naturopathe">Consultations</a></h3>
+						<h3><a href="/prestations-de-naturopathie">Prestations</a></h3>
 					</header>
 					<p>Découvrez le déroulement d'une consultation de naturopathie&nbsp;: Première consultation, Consultation de suivi ou Forfait&hellip;</p>
 				</section>
 			</div>
-			<div class="4u" style="cursor:pointer" onclick="location.href='/consulter-un-naturopathe#massages-bien-être--reflexo'">
+			<div class="4u" style="cursor:pointer" onclick="location.href='/prestations-de-naturopathie#massages'">
 				<section>
-					<span class="icon featured fa-leaf"></span>
+					<span class="icon featured fa-leaf" style="cursor:pointer"></span>
 					<header>
-						<h3><a href="/consulter-un-naturopathe#massages-bien-être--reflexo">Massages / Réfléxologie</a></h3>
+						<h3><a href="/prestations-de-naturopathie#massages">Massages / Réfléxologie</a></h3>
 					</header>
 					<p>Prendre un moment pour soi, se reconnecter à son corps et prendre soin de lui&hellip;</p>
 				</section>
 			</div>
 			<div class="4u" style="cursor:pointer" onclick="location.href='/naturopathe-en-entreprise'">
 				<section>
-					<span class="icon featured fa-users"></span>
+					<span class="icon featured fa-users" style="cursor:pointer"></span>
 					<header>
 						<h3><a href="/naturopathe-en-entreprise">Interventions en entreprise</a></h3>
 					</header>
 					<p>Pour améliorer les performances et atteindre les objectifs, je propose des ateliers, des conférences et des séances de massages&hellip;</p>
 				</section>
-			
+
 			</div>
 		</div>
 	</section>
 
 {% comment %}
 	<section class="wrapper style3 container special">
-	
+
 		<header class="major">
 			<h2>Next look at this <strong>cool stuff</strong></h2>
 		</header>
-		
+
 		<div class="row">
 			<div class="6u">
-			
+
 				<section>
 					<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
 					<header>
@@ -86,7 +86,7 @@ banner: on
 
 			</div>
 			<div class="6u">
-			
+
 				<section>
 					<a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
 					<header>
@@ -99,7 +99,7 @@ banner: on
 		</div>
 		<div class="row">
 			<div class="6u">
-			
+
 				<section>
 					<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
 					<header>
@@ -110,7 +110,7 @@ banner: on
 
 			</div>
 			<div class="6u">
-			
+
 				<section>
 					<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
 					<header>
@@ -127,7 +127,7 @@ banner: on
 				<li><a href="#" class="button">See More</a></li>
 			</ul>
 		</footer>
-	
+
 	</section>
 {% endcomment %}
 
@@ -146,4 +146,3 @@ banner: on
 	</ul>
 </footer>
 </section>
-

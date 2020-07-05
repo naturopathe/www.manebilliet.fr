@@ -6,35 +6,24 @@ special:
   title: Consultations
 ---
 
-### Première consultation : 1h30 min - 80€
-La première consultation permet d’effectuer un bilan de vitalité.
-L’objectif de ce bilan est d’évaluer votre force vitale sur les plans physiologique et psychologique. Il se déroule en 3 étapes : 
-- un entretien approfondi (état des lieux de vos habitudes de vie, environnement, ...)
-- un bilan morpho-physiologique, 
-- un bilan iridologie,
-A la suite de ce bilan, une fiche de conseils personnalisée vous sera remise.
-Elle comprendra une sélection de techniques, parmi la dizaine utilisées, qui seront les plus adaptées à votre profil et votre contexte.
-Lien vers page : les techniques 
+### Consultation - Bilan de vitalité : 1h30 - 80€
+L’objectif de cette première séance est d’évaluer votre terrain, vos forces, vos fragilités, la nature des toxines et la capacité d’élimination des organes émonctoires  L’approche est holistique et prend  en compte votre physiologie, mental, votre motivation et votre environnement.
 
+Ce bilan se déroule en 3 étapes :
+- un entretien approfondi (état des lieux de vos habitudes de vie, environnement, contraintes, …)
+- un bilan morpho-physiologique (études des formes et proportions du corps, visage, crane et mains afin de définir votre tempérament. Vous restez habillé(e))
+- un bilan iridologie (observation de votre iris, partie colorée de l’oeil)
 
-### Consultation de suivi 1h - 60€
-Le but de cette consultation est de faire le point sur les reformes que vous avez réussi ou non à mettre en place. Quels ont été les succès mais aussi les difficultés ou blocages rencontrés et pourquoi. 
-Cette consultation permet  de faire les ajustements nécessaires.
+A chaque étapes du programme d’hygiène de vie, une fiche de conseils naturopathiques, adaptés et personnalisés, vous sera remise. Lien vers page : les techniques
 
-### Forfait : 
-Projet particulier (projet BB, préparation sportive, gestion du stress, perte de poids)
+NB : Une à plusieurs séances de suivi sont souvent nécessaires pour mettre en place un programme d’hygiène de vie.
 
-### Massages bien-être / reflexo
-Prendre un moment pour soi, se reconnecter à son corps et prendre soin de lui. 
-Le massage permet d’améliorer la circulation des liquides, décongestionner les tissus,  libérer et évacuer les toxines via les émonctoires.
-C’est également permettre au corps de se détendre, se libérer des tensions, se régulariser et permettre au mental de « lâcher prise »
-Soins réalisés uniquement avec des huiles végétales.
+### Séance de suivi : 1h - 60€
+Ces séances permettent de faire le point sur :
+- la manière dont vous vous sentez et ce qui a changé,
+- les parties du premier programme que vous avez réussi à mettre en place,
+- les difficultés que vous avez rencontrés et d’en comprendre les raisons
+- proposer des ajustements  et/ou des alternatives
+- de franchir de nouvelles étapes de votre programme d’hygiène de vie.
 
-- Le bien-être 1h : 70€
-- Le bien-être1h30 : 90€
-- Le drainant 1h : 80€
-- Tchi Nei Tsang (massage du ventre) 30 min : 45€
-- Réflexologie plantaire 30 min : 40€
-
-Ces massages n’ont aucunes visées thérapeutiques ou médicales.
-Soins réalisés avec des huiles végétales, sans huiles essentielles.
+Une fiche de conseils personnalisée vous sera remise à la fin de chaque séance.
