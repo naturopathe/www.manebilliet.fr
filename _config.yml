@@ -30,4 +30,6 @@ timezone: Europe/Paris
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-
+exclude:
+  - Makefile
+  - CNAME

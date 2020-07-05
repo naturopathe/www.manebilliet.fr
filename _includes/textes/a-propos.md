@@ -1,6 +1,6 @@
 ## Je suis naturopathe, certifiée [ISUPNAT](https://isupnat-naturopathie.fr/) et [FENA](http://lafena.fr/ "Fédération Française des Ecoles de Naturopathie"), membre de l’[OMNES](https://www.omnes.fr/ "Organisation de la Médecine Naturelle et de l’Education Sanitaire")
 
-<div style="float:left;padding:10px 20px 10px 0"><img src="/images/magali-mane-billiet-400px.jpg" width="400" /></div>
+<div style="float:left; padding:10px 20px 10px 0; max-width:100%"><img src="/images/magali-mane-billiet-400px.jpg" width="100%" /></div>
 
 Je suis certifiée par l’Institut Supérieur de Naturopathie (ISUPNAT), par la FENA (Fédération Française des Ecoles de Naturopathie) et suis membre de l’OMNES (Organisation de la Médecine Naturelle et de l'Education Sanitaire).
 
