@@ -10,14 +10,14 @@ permalink: /consulter-un-naturopathe
 ## CONSULTATIONS
 
 ### Consultation - Bilan de vitalité : 1h30 - 80€
-L’objectif de cette première séance est d’évaluer votre terrain, vos forces, vos fragilités, la nature des toxines et la capacité d’élimination des organes émonctoires  L’approche est holistique et prend  en compte votre physiologie, mental, votre motivation et votre environnement.
+L’objectif de cette première séance est d’évaluer votre terrain, vos forces, vos fragilités, la nature des toxines et la capacité d’élimination des organes émonctoires  L’approche est holistique et prend  en compte votre physiologie, votre mental, votre motivation et votre environnement.
 
 Ce bilan se déroule en 3 étapes :
-- un entretien approfondi (état des lieux de vos habitudes de vie, environnement, contraintes, …)
+- un entretien approfondi (état des lieux de vos habitudes de vie, environnement, contraintes…)
 - un bilan morpho-physiologique (études des formes et proportions du corps, visage, crane et mains afin de définir votre tempérament. Vous restez habillé(e))
 - un bilan iridologie (observation de votre iris, partie colorée de l’oeil)
 
-A chaque étapes du programme d’hygiène de vie, une fiche de conseils naturopathiques, adaptés et personnalisés, vous sera remise. Lien vers page : les techniques
+A chaque étapes du programme d’hygiène de vie, une fiche de conseils naturopathiques, adaptés et personnalisés, vous sera remise.
 
 NB : Une à plusieurs séances de suivi sont souvent nécessaires pour mettre en place un programme d’hygiène de vie.
 
