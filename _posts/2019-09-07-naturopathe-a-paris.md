@@ -6,5 +6,4 @@ icon: map-marker
 permalink: /naturopathe-a-paris
 ---
 <span class="image featured"><img src="/images/pic02.jpg" alt=""></span>
-Bientôt...
 
