@@ -20,7 +20,7 @@ Vous pouvez prendre rendez-vous pour différentes prestations :
  - massages (relaxant, naturo, ventre, pieds-mains-crâne)
  - soin visage type Ko Bi Do
  - réflexologie plantaire
- - séances de gestion du stress ou autres (dans le cadre d’un forfait)
+ - séances de gestion du stress
 
 Je souhaite pouvoir proposer bientôt des ateliers-conférences à Chatou ou villes limitrophes, sur des sujets bien-être.  
 Je vous tiendrai au courant.

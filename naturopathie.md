@@ -7,13 +7,52 @@ special:
 
 ---
 
+La naturopathie vise à préserver la santé globale de l’individu par la mise en œuvre d’une hygiène de vie
+et de moyens naturels indispensables à une bonne santé.  
+Cette énergie en chacun de nous, nous permet de maintenir une bonne santé ou de recouvrer la santé en
+cas de maladie (on parle d’auto-guérison). Pour stimuler, ou renforcer cette énergie, la naturopathie
+s’appuie sur des conseils d’hygiène de vie en utilisant les moyens naturels offerts par la nature à savoir
+l’eau, l’air, l’alimentation, l’exercice physique, le soleil, les plantes...
+
 ### Le naturopathe est un éducateur de santé. Il enseigne les lois de la santé et de l'hygiène de vie.
 
-Son approche est holistique, c’est à dire qu’il prend en compte l’individu dans sa globalité (physique, psychique, énergétique et sociale).
-Son objectif est de rechercher la ou les causes des dérèglements, d’évaluer le « terrain », les forces/faiblesses physiologiques de chacun afin de rééquilibrer et renforcer l’organisme.
-Cette pratique aide à mieux se connaître, retrouver ses capacités d'auto-guérison, apprendre à respecter son écologie intérieure et devenir acteur de sa santé.
+Son approche est holistique, c’est à dire qu’il prend en compte l’individu dans sa globalité (physique,
+psychique, énergétique et sociale). Son objectif est de rechercher la ou les causes des dérèglements,
+d’évaluer le « terrain », les forces/faiblesses physiologiques de chacun afin de rééquilibrer et renforcer
+l’organisme. Cette pratique aide à mieux se connaître, retrouver ses capacités d’auto-guérison, apprendre
+à respecter son écologie intérieure et devenir acteur de sa santé.  
+L’accompagnement et les conseils sont personnalisés. Le naturopathe sélectionne, parmi la dizaine de
+techniques utilisées, les plus adaptées aux lois biologiques, l’environnement, les contraintes et les
+motivations de chacun.
 
-L’accompagnement et les conseils sont personnalisés. Le naturopathe sélectionne, parmi la dizaine de techniques utilisées, les plus adaptées aux lois biologiques, l’environnement, les contraintes et les motivations de chacun.
+### DEFINITION OMNES
+
+L’O.M.S, qui définit la santé pour l’individu comme un « état complet de bien-être
+physique, mental et social », considère que "la naturopathie est un ensemble de
+méthodes de soins visant à renforcer les défenses de l'organisme par des moyens
+considérés comme naturels et biologiques''.  
+La naturopathie va bien au-delà de cette définition, pour faire simple elle défend
+le « capital santé » qui repose sur l’art de rester en bonne santé, d’être acteur
+de sa santé et prendre soin de soi par des moyens naturels.  
+La naturopathie englobe l’individu sur tous les plans de l’être parce qu’elle
+suppose que l’humain, dans la globalité et l’ «entièreté» qui le caractérisent, peut
+s’exprimer sur différents plans : physique, énergétique, émotionnel, mental,
+spirituel, socioculturel et même planétaire (écologie).  
+Cette discipline se compose de 2 axes distincts mais complémentaires :  
+ * Clefs d’une hygiène de vie optimum (conseils alimentaires,
+gestion du stress, activités physiques et respiratoires et outils et techniques
+naturels : le naturopathe agit en qualité d’un vrai éducateur de santé, dans
+un cadre de prévention primaire
+ * Clefs naturopathiques individualisées pour redynamiser les
+capacités d’auto guérison propres à notre organisme  
+On peut donc en conclure que la naturopathie a pour mission de prévenir la
+maladie, de conserver la santé, ou de l’optimiser par un mode de vie plus sain.
+
+La naturopathie contribue ainsi à la promotion d’une santé globale et durable, qui
+ne se substitue jamais à la médecine conventionnelle mais la complète, elle
+s’inscrit en parfaite complémentarité avec les autres pratiques sanitaires,
+médicales et/ou paramédicales.
+
 
 ### TECHNIQUES UTILISEES
 
