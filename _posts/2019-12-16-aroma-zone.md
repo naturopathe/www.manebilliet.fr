@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title:  Retrouvez-moi chez Aroma Zone Odéon, à Paris
 date:   2019-12-16 14:00:00+02
 icon: leaf

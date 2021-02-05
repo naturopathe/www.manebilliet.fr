@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title:  'Idée petit déjeuner sain et complet : pancakes à la banane'
 date:   2020-03-26 14:00:00+02
 icon: leaf

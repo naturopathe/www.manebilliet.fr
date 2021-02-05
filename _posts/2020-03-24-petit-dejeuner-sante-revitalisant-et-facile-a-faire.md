@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title:  Idée petit déjeuner santé, revitalisant et facile à faire
 date:   2020-03-24 14:00:00+02
 icon: leaf

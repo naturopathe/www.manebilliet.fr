@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title:  Naturopathe à Chatou
 date:   2019-11-28 16:25:05+02
 icon: map-marker

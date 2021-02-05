@@ -4,7 +4,7 @@ title: Intervention d'un naturopathe dans votre entreprise à Paris ou en régio
 description: Intervention naturopathique, bien-être, gestion du stress, ateliers, conférences en Ile-de-france, Yvelines, etc.
 special:
   icon: users
-  title: Interventions en entreprises
+  title: Interventions en entreprise
 ---
 
 Pour améliorer les performances et atteindre les objectifs, de plus en plus d’entreprises ont compris la nécessité d’offrir un environnement apaisé et de qualité à ses salariés.

@@ -1,5 +1,7 @@
 ---
 layout: post
+categories:
+  - actu
 title:  Stage annulé en cette période de coronavirus
 date:   2020-03-16 14:00:00+02
 icon:   users

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title:  Une magnifique bourrache dans mon jardin !
 date:   2020-03-27 14:00:00+02
 icon:   pagelines

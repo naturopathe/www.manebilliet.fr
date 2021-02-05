@@ -1,5 +1,7 @@
 ---
 layout: post
+categories:
+  - actu
 title:  Stage WEEK-END YOGA & HUILES ESSENTIELLES
 date:   2020-07-05 16:30:00+02
 icon:   users
