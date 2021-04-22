@@ -7,46 +7,43 @@ special:
 permalink: /prestations-de-naturopathie/massages
 ---
 
-## MASSAGES
+## MASSAGES BIEN-ETRE\*
 
-30 min : 40 € / carnet de 5 : 180€  
-1h : 80 € / carnet de 5 : 360 € / carnet de 10 : 720 €  
-1h30 : 120 € : carnet de 5 : 540 € / carnet de 10 : 1080 €  
-Carnet de 5 massages : 50 % de remise sur le 5eme massage  
-Carnet de 10 massages : 10ème massage offert
+30mn (prévoir 45mn sur place) : 40 €  
+1h00 (prévoir 1h30mn sur place) : 80 €  
+1h30 (prévoir 2h sur place) : 120 €  
 
-### Relaxant* : 1h ou 1h30
-Les mouvements lents, enveloppant et glissés de ce massage détente offrent une parenthèse favorable au
-lâcher-prise. C’est un excellent moyen de vous reconnecter à votre corps et de prendre soin de vous. Il
-aide a libérer les tensions nerveuses et apaise le mental.
+Avant et après chaque massage :
+désinfection de toutes les parties touchées (poignées de portes, chaise de déshabillage...),
+désinfection de la table de massage et têtière,
+changement des matériels en tissu,
+aération de la salle. 
 
-### Naturo* : 1h ou 1h30
-Grâce à une alternance de mouvements toniques et relaxants, ce massage détend les muscles en
-profondeur. Le corps est doucement drainé afin de décongestionner les tissus et libérer les toxines qui
-pourront être évacuées par l’organisme. La pression est ajustée afin de dénouer les tensions tout en
-apportant bien-être et détente.
+### RELAXANT : 60’ ou 90’ 
+Les mouvements lents, enveloppants et glissés de ce massage détente offrent une parenthèse favorable au lâcher-prise. C’est un excellent moyen de vous reconnecter à votre corps et de prendre soin de vous. Il aide à libérer les tensions nerveuses et apaise le mental.
 
-### Drainant : 1h ou 1h30
-Ce massage est un vrai atout détox. Il a pour visé de drainer l’ensemble du corps par des mouvements
-appuyés, glissés et profonds. Les tissus sont alors essorés et les toxines remises en circulation afin que le
-corps puissent les évacuer par ses organes émonctoires. Ce massage doit être idéalement suivi d’une
-séance de sudation afin d’aider le travail de nettoyage de l’organisme. Pensez à bien vous hydrater !
+### INTUITIF Bien-être : 60’ ou 90’
+Grâce à une alternance de mouvements toniques et relaxants, ce massage sur mesure, à l’écoute de votre corps, vise à détecter et relâcher les zones de tensions musculaires. La pression est ajustée afin de décongestionner les tissus tout en apportant bien-être et détente.
 
-### Ventre (type Chi Nei Tsang)* : 30 min
-Massage doux et profond du ventre, grand siège de nos émotions. Il se concentre sur les organes internes
-(foie, rate, pancréas, estomac, intestin) afin d’améliorer leur fonctionnement et libérer des blocages. Il
-peut aider à apaiser des douleurs dans d’autres parties du corps (dos, épaules, jambes,...). Ce massage
-apaise tout en redonnant de l’énergie à l’organisme.
+### DRAINANT Détox : 60’ ou 90’
+Massage tonique, idéal pour les sportifs et les détox. Les mouvements appuyés drainent et essorent en profondeur les tissus afin d’en déloger les toxines. Ces dernières, une fois remises en circulation, pourront être évacuées par les organes émonctoires. Ce massage peut être source de grande détente et doit idéalement être suivi d’une séance de sudation.
 
-### Pieds-mains-Crâne* : 30 min
-Ce massage se concentre spécifiquement sur les mains, les pieds et le crane. Ces parties du corps sont très
-riches en terminaisons nerveuses et permettent d’obtenir une détente rapide et profonde de l’organisme.
+### FERTILITE / PRECONCEPTION : 60’
+Ce massage allie relaxation et énergétique dans le but de vous recentrer et vous unifier. Il rassemble plusieurs techniques manuelles telles que : la connexion de zones énergétiques, l'acupression  (propices à la fertilité), le massage des grands nadis du corps (ou circuits énergétiques) ainsi que le massage de zones plantaires associées au système reproducteur. Il vise à préparer le corps et l'esprit de la future maman à accueillir une nouvelle vie.  Il est également idéal dans l'accompagnement des femmes dans les étapes préparatoires de l’Assistance Médicale à la Procréation (FIV, IA…)
 
-\* Massages bien-être-naturopathiques, sans visées thérapeutiques ou médicales. La durée inclue le temps
-d’installation. Attitude correcte et respectueuse exigée.  
-Durée de validité des carnets : 1 an, à compter de la date de règlement.
+### KO BI DO - Soin VISAGE  : 60’ 
+Massage manuel du visage aux effets repulpant et anti-âge. Grâce à un enchainement de manœuvres précises, alliant vitesse et fluidité, tous les muscles à l'origine de l'affaissement du visage sont pétris en profondeur, sur chaque centimètre carré afin d’effacer les effets du stress et redonner de l’éclat au visage. Les cellules sont mieux oxygénées. La production de collagène et d’élastine est stimulée.  
+Ce soin complet permet au visage de retrouver sa beauté, dans le respect de ses expressions, tout en procurant profonde détente et bien-être global.
+> Huile végétale bio de jojoba ou argan, selon votre peau
 
-\* Huiles végétales utilisées :  
-\- sésame bio : très nourrissante, régénérante et antioxydante. Sa texture fluide et pénétrante est idéale pour les
-massages.  
-\- Huiles de soin massage neutre bio, avec ou sans parfum (produits Aroma Zone)
+### PIEDS-MAINS-CRANE : 30’
+Massage très agréable qui se concentre sur les mains, les pieds et le crane, très riches en terminaisons nerveuses et méridiens. Il permet une détente rapide et profonde de l’organisme.
+
+### QI NEI TSANG – massage VENTRE : 30’
+Le ventre, grand siège de nos émotions peut être le lieu de blocages. Ce massage alterne entre mouvement doux et mouvements profonds. Il se concentre sur les organes internes tels que foie, rate, pancréas, estomac, reins et intestins afin d’en améliorer le fonctionnement et libérer les tensions. Il aide souvent, indirectement, à soulager d’autres parties du corps. Ce massage apaise tout en redonnant de l’énergie.
+
+
+
+> \* Massages bien-être, sans visée thérapeutique ou médicale.
+> Attitude correcte et respectueuse exigée.
+> Huiles végétales utilisées : Huile de sésame bio (nourrissante, régénérante et antioxydante) ou huile massage neutre.
