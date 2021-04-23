@@ -1,7 +1,8 @@
-## Le naturopathe est un éducateur de santé. Il enseigne les lois de la santé et de l'hygiène de vie.
+## Le naturopathe enseigne les règles d'hygiène de vie
 
-Son approche est holistique, c’est à dire qu’il prend en compte l’individu dans sa globalité (physique, psychique, énergétique et sociale).
-Son objectif est de rechercher la ou les causes des dérèglements, d’évaluer le « terrain », les forces/faiblesses physiologiques de chacun afin de rééquilibrer et renforcer l’organisme.
-Cette pratique aide à mieux se connaître, retrouver ses capacités d'auto-guérison, apprendre à respecter son écologie intérieure et devenir acteur de sa santé.
+L’O.M.S, qui définit  la santé pour l’individu comme un « état complet de bien-être  physique, mental et social », considère que "la naturopathie est un ensemble de méthodes de soins visant à renforcer les défenses de l'organisme par des moyens considérés comme naturels et biologiques".
 
-L’accompagnement et les conseils sont personnalisés. Le naturopathe sélectionne, parmi la dizaine de techniques utilisées, les plus adaptées aux lois biologiques, l’environnement, les contraintes et les motivations de chacun.
+L'approche naturopathique est holistique et a pour mission de :
+- prendre en compte l’individu dans sa globalité physique, psychique, socioculturelle et émotionnelle
+- identifier les causes des dérèglements pour agir à la source
+- donner des conseils personnalisés qui tendent à s’intégrer au mieux à vos contraintes et motivations.
