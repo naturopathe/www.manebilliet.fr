@@ -9,7 +9,7 @@ special:
 ---
 
 
-Les présentes conditions générales de vente s’appliquent à toutes les prestations de services qui sont réservées par téléphone ou par mail directement auprès de Magali MANE-BILLIET ou par Doctolib. Tout visiteur du site, intéressé par ces prestations de service a accès aux présentes CGV sur le site internet https://www.manebilliet.fr  et les reçoit par mail, envoyé par Doctolib, lors de la confirmation du rendez-vous, s’il a renseigné son adresse mail.  
+Les présentes conditions générales de vente s’appliquent à toutes les prestations de services qui sont réservées par téléphone ou par mail directement auprès de Magali MANE-BILLIET ou par Doctolib. Tout visiteur du site, intéressé par ces prestations de service a accès aux présentes CGV sur le site internet https://www.manebilliet.fr  et les reçoit par mail, envoyé par Doctolib, lors de la confirmation du rendez-vous, s’il a renseigné son adresse mail. 
 Tous les rendez-vous de consultations pris par mail ou téléphone sont enregistrés et centralisés, par Madame Magali Mâne-Billiet, dans Doctolib, hors interventions pour des ateliers-conférences.
 
 ### AVERTISSEMENT
@@ -24,8 +24,8 @@ La description des prestations proposées par Madame Magali Mâne-Billiet est di
 ### ARTICLE 1 - Champs d’application
 Les présentes conditions générales de vente de services s’appliquent, sans restriction ni réserve à l’ensemble des prestations proposées par Madame Magali Mâne-Billiet.  
 La prise de rendez-vous pour les prestations suivantes : consultations de naturopathie, séances de techniques de relaxation et  gestion du stress, massages bien-être, peut se faire par téléphone ou par mail directement auprès de Madame Magali Mâne-Billiet ou par Doctolib.  
-Les  consultations de naturopathie, séances de techniques de relaxation et gestion du stress peuvent être proposées en cabinet, à domicile ou en visio-consultation.  
-Les ateliers-conférences pour particuliers et entreprises peuvent être proposés sur site ou en visio-conférence, via un outil défini à l’avance.
+Les  consultations de naturopathie, séances de techniques de relaxation et gestion du stress peuvent être proposées en cabinet, à domicile ou en visio-consultation. Les massages bien-être peuvent être proposés en cabinet ou à domicile.  
+Les ateliers-conférences pour particuliers et entreprises peuvent être proposés sur site ou en visioconférence, via un outil défini à l’avance.
 
 ### ARTICLE 2 - Mentions légales
 Madame Magali Mâne-Billiet  
@@ -51,14 +51,14 @@ Pour réserver une ou plusieurs prestations, le/la client(e) doit donner les inf
 
 ### ARTICLE 4 - Tarifs, conditions et moyens de paiement
 Les tarifs sont indiqués sur le site internet pour chaque prestation et sont exprimés HT (Hors Taxes), TVA non applicable en vertu de l’article 293B du CGI. Ces tarifs correspondent à ceux en vigueur au jour de la prise de rendez-vous.  
-Le paiement des prestations en cabinet ou à domicile, s'effectuent le jour où la prestation a lieu par les moyens suivants : espèces / chèque bancaire (français) à l’ordre de Magali Mâne-Billiet / carte bancaire / virement.
-Les consultations à domicile sont majorées d’un montant supplémentaire de 15 euros, liés aux frais de déplacement.
+Le paiement des prestations en cabinet ou à domicile, s'effectuent le jour où la prestation a lieu par les moyens suivants : espèces / chèque bancaire (français) à l’ordre de Magali Mâne-Billiet / carte bancaire / virement.  
+Les consultations et massages bien-être à domicile sont majorées d’un montant supplémentaire de 15 euros, liés aux frais de déplacement.
 
 Le paiement des consultations en visio-consultation se fait après la prestation, par les moyens suivants : chèque bancaire (français) à l’ordre de Magali Mâne-Billiet / virement.
 
-Pour les ateliers-conférences dédiés aux particuliers, un tarif HT par participant sera communiqué sur les supports de communication utilisés à l’occasion. Ces tarifs seront définis selon les frais de location de salle et autres frais induits par la prestation proposée (déplacements, fourniture de matériel, …)  
-Le paiement de ces ateliers-conférences peut se faire sur place, le jour de la prestation ou à l’avance, en ligne via la plateforme utilisée pour l’occasion, si la prestation est donnée en distanciel. Les moyens de règlements peuvent êtres les suivants : espèces (pour les prestations en présentiel) / chèque bancaire (français) à l’ordre de Magali Mâne-Billiet / carte bancaire (pour les prestations en présentiel) / virement.  
-En cas d’annulation de la prestation par Magali Mâne-Billiet, les inscrits ayant déjà payé, seront remboursés du montant de la prestation, moins les frais éventuels associés aux sommes perçues pour la prestations, déjà déboursés par Magali Mâne-Billiet au moment du remboursement (frais bancaires, frais zettle, impôts, charges). Les montants seront communiqués en toute transparence aux intéressés.  
+Pour les ateliers-conférences dédiés aux particuliers, un tarif HT par participant sera communiqué sur les supports de communication utilisés à l’occasion. Ces tarifs seront définis selon les frais de location de salle et autres frais induits par la prestation proposée (déplacements, fourniture de matériel, …)
+Le paiement de ces ateliers-conférences peut se faire sur place, le jour de la prestation ou à l’avance, en ligne par virement bancaire, si la prestation est donnée en distanciel. Les moyens de règlements peuvent êtres les suivants : espèces (pour les prestations en présentiel) / chèque bancaire (français) à l’ordre de Magali Mâne-Billiet / carte bancaire (pour les prestations en présentiel) / virement.  
+En cas d’annulation de la prestation par Magali Mâne-Billiet, les inscrits ayant déjà payé, seront remboursés du montant de la prestation, moins les frais éventuels associés aux sommes perçues pour la prestations, déjà déboursés par Magali Mâne-Billiet au moment du remboursement (frais bancaires, frais Zettle. Les montants seront communiqués en toute transparence aux intéressés.  
 Zettle : solution de paiement par carte bleue proposée par Paypal, utilisée par le prestataire qui prend un pourcentage sur chaque paiement effectué via son terminal de paiement.
 
 Pour les prestations en entreprises, un devis sera établi sur simple demande et après précision des besoins de l’entreprise. Les dates d'interventions seront déterminées après accord entre les parties.
@@ -98,6 +98,5 @@ Le Client reconnaît avoir eu communication, préalablement à l'achat immédiat
 -  les informations relatives à l'identité du Prestataire, à ses coordonnées postales, téléphoniques et électroniques, et à ses activités, si elles ne ressortent pas du contexte ; 
 -  les informations relatives aux garanties légales et contractuelles et à leurs modalités de mise en œuvre ; 
 -  les fonctionnalités du contenu numérique et, le cas échéant, à son interopérabilité ; 
--  la possibilité de recourir à une médiation conventionnelle en cas de litige.
-
+-  la possibilité de recourir à une médiation conventionnelle en cas de litige.  
 Le fait pour une personne physique (ou morale) de commander un Service emporte adhésion et acceptation pleine et entière des présentes Conditions Générales de Vente et obligation au paiement des Services commandés, ce qui est expressément reconnu par le Client, qui renonce, notamment, à se prévaloir de tout document contradictoire, qui serait inopposable au Prestataire.
