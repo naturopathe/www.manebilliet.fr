@@ -7,17 +7,24 @@ special:
 permalink: /prestations-de-naturopathie/massages
 ---
 
-## MASSAGES BIEN-ETRE\*
 
-30mn (prévoir 45mn sur place) : 40 €  
-1h00 (prévoir 1h30mn sur place) : 80 €  
-1h30 (prévoir 2h sur place) : 120 €  
+## MASSAGES BIEN-ETRE
+
+- **Massage 60’**   (prévoir 1h30 sur place) : **80 €**     
+- **Massage 90’**   (prévoir 2h sur place)  : **120 €**
+- **Massage 30’**   (prévoir 45’ sur place) : **45 €**
+- **KoBiDo 60’**    (prévoir 1h30 sur place) : **80 €**
+
+**OFFRE CADEAU**\* :
+  9 massages bien-être 60’ minimum achetés = 1 massage bien-être 60’ OFFERT
+
+&nbsp;
 
 Avant et après chaque massage :
 désinfection de toutes les parties touchées (poignées de portes, chaise de déshabillage...),
 désinfection de la table de massage et têtière,
 changement des matériels en tissu,
-aération de la salle. 
+aération de la salle.
 
 ### RELAXANT : 60’ ou 90’ 
 Les mouvements lents, enveloppants et glissés de ce massage détente offrent une parenthèse favorable au lâcher-prise. C’est un excellent moyen de vous reconnecter à votre corps et de prendre soin de vous. Il aide à libérer les tensions nerveuses et apaise le mental.
@@ -42,8 +49,9 @@ Massage très agréable qui se concentre sur les mains, les pieds et le crane, t
 ### QI NEI TSANG – massage VENTRE : 30’
 Le ventre, grand siège de nos émotions peut être le lieu de blocages. Ce massage alterne entre mouvement doux et mouvements profonds. Il se concentre sur les organes internes tels que foie, rate, pancréas, estomac, reins et intestins afin d’en améliorer le fonctionnement et libérer les tensions. Il aide souvent, indirectement, à soulager d’autres parties du corps. Ce massage apaise tout en redonnant de l’énergie.
 
+&nbsp;
 
+\*Offre valable 12 mois à compter de la date d’achat du premier massage bien-être de 60’minimum . Massage bien-être offert de 60’ au choix.
 
-> \* Massages bien-être, sans visée thérapeutique ou médicale.
-> Attitude correcte et respectueuse exigée.
-> Huiles végétales utilisées : Huile de sésame bio (nourrissante, régénérante et antioxydante) ou huile massage neutre.
+Massages bien-être, sans visées thérapeutiques ou médicales. 
+Attitude correcte et respectueuse exigée.  Huiles végétales utilisées : Huile de sésame bio (nourrissante, régénérante et antioxydante) ou huile de massage neutre. Le temps prévu sur place indiqué comprend le temps d’installation, le massage bien-être et le temps post massage.
