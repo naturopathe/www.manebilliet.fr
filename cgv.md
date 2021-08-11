@@ -30,7 +30,7 @@ Les ateliers-conférences pour particuliers et entreprises peuvent être propos�
 ### ARTICLE 2 - Mentions légales
 Madame Magali Mâne-Billiet  
 Auto-entrepreneur  
-Adresse du cabinet : 2a avenue Paul Doumer 78400 CHATOU  
+Adresse du cabinet : 20 avenue du Général Sarrail 78400 CHATOU  
 Adresse siège social : 27 avenue de Brimont 78400 CHATOU  
 Adresse mail :manebilliet@gmail.com  
 Coordonnées téléphoniques : 07 66 80 71 76  
