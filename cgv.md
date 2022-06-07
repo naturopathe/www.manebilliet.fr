@@ -32,7 +32,7 @@ Madame Magali Mâne-Billiet
 Auto-entrepreneur  
 Adresse du cabinet : 7 rue Max Roujou 78400 CHATOU  
 Adresse siège social : 7 rue Max Roujou 78400 CHATOU  
-Adresse mail : manebilliet@gmail.com  
+Adresse e-mail : manebilliet@gmail.com  
 Coordonnées téléphoniques : 07 66 80 71 76  
 SIREN/ SIRET 848 169 090 000 26, APE 8690F.
 
