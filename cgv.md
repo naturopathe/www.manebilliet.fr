@@ -33,7 +33,7 @@ Auto-entrepreneur
 Adresse du cabinet : 7 rue Max Roujou 78400 CHATOU  
 Adresse siège social : 7 rue Max Roujou 78400 CHATOU  
 Adresse e-mail : manebilliet@gmail.com  
-Coordonnées téléphoniques : 07 66 80 71 76  
+Coordonnées téléphoniques : 06 83 09 63 64  
 SIREN/ SIRET 848 169 090 000 26, APE 8690F.
 
 Directeur de la publication : Magali Mâne-Billiet  
@@ -68,7 +68,7 @@ Les services réservés par le client/la cliente seront fournis à la date et à
 Les consultations et massages bien-être proposés par Madame Magali Mâne-Billiet ne sont ni à but thérapeutique ni à but médical. Leur unique objectif est celui du bien-être.
  
 ### ARTICLE 6 - Report, annulation et modification d’un rendez-vous
-Le report, l’annulation ou la modification d’un rendez-vous sont possibles via la plateforme Doctolib ou en adressant un courriel à manebilliet@gmail.com ou par téléphone au 07 66 80 71 76. 
+Le report, l’annulation ou la modification d’un rendez-vous sont possibles via la plateforme Doctolib ou en adressant un courriel à manebilliet@gmail.com ou par téléphone au 06 83 09 63 64. 
  
 ### ARTICLE 7 - Protection des informations personnelles
 En application de la loi n° 78-17 du 6 janvier 1978, il est rappelé que les données nominatives qui sont demandées sont nécessaires à la prise de rendez-vous et sont exclusivement destinées à la gestion des clients par Madame Magali Mâne-Billiet  

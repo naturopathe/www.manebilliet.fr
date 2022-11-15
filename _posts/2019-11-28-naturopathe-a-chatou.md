@@ -27,7 +27,7 @@ Je souhaite pouvoir proposer bientôt des ateliers-conférences à Chatou ou vil
 Je vous tiendrai au courant.
 
 Pour plus d’information, consulter mon site internet.  
-Prise de rendez-vous sur Doctolib ou par téléphone : <a href="tel:+33766807176">07 66 80 71 76</a>
+Prise de rendez-vous sur Doctolib ou par téléphone : <a href="tel:+33683096364">06 83 09 63 64</a>
 
 Au plaisir de vous recevoir bientôt et de vous accompagner sur votre chemin mieux-être.  
 Je vous souhaite une lumineuse journée.

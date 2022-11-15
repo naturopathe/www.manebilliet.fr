@@ -11,7 +11,7 @@ special:
 ### INTERVENANTS
 En vertu de l’article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l’économie numérique, il est précisé aux utilisateurs du site manebilliet.fr l’identité des différents intervenants dans le cadre de sa réalisation et de son suivi :
 Propriétaire et auteur du contenu : Magali Mâne-Billiet, Auto-entrepreneur, SIREN 848 169 090, APE 8690F.  
-Téléphone : 07 66 80 71 76. Mail : manebilliet@gmail.com  
+Téléphone : 06 83 09 63 64. Mail : manebilliet@gmail.com  
 Adresse du cabinet : 7 rue Max Roujou 78400 CHATOU  
 Adresse siège social : 7 rue Max Roujou 78400 CHATOU  
 Hébergement : Github Pages – 88 Colin P Kelly Junior Street, San Francisco, CA 94107, United States
