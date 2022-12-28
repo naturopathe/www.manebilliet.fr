@@ -12,7 +12,7 @@ Pour améliorer les performances et atteindre les objectifs, de plus en plus d�
 **[Contactez-moi](/contact) pour me faire part de vos besoins et obtenir une offre adaptée et personnalisée.**
 
 Au service des entreprises, j'interviens sous plusieurs formes pour améliorer le bien-être des salariés et travailler sur la gestion des émotions. Pour vous fournir une offre plus large et plus dynamique, je m'associe régulièrement à d'autres naturopathe. 
-​
+
 Voici un avant goût des offres possibles mais n’hésitez pas à demander une intervention sur mesure :
 
 ### Ateliers-conférences sur des thématiques santé-bien-être​
