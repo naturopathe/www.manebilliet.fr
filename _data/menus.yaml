@@ -1,0 +1,66 @@
+top:
+  - title: Accueil
+    icon: house-door
+    link: /
+  - title: Bio
+    link: /naturopathe
+  - title: Naturopathie
+    link: /naturopathie
+    submenu:
+      - title: Techniques utilisées
+        link: /naturopathie#techniques-utilisees
+      - title: Les mutuelles qui prennent en charge
+        link: /naturopathie#les-mutuelles-qui-prennent-en-charge
+      - title: Pourquoi consulter ?
+        link: /naturopathie#pourquoi-consulter
+  - title: Prestation
+    link: /prestations-de-naturopathie
+    submenu:
+      - title: Consultations
+        link: /consulter-un-naturopathe#consultations
+      - title: Massage
+        link: /prestations-de-naturopathie/massages#massages
+      - title: Soin visage
+        link: /prestations-de-naturopathie/soin-visage-ko-bi-do#soin-visage-ko-bi-do
+  - title: Entreprises
+    link: /naturopathe-en-entreprise
+  - title: Actualités
+    link: /actualites
+  - title: Blog
+    link: /blog
+  - title: Contact
+    link: /contact
+
+social:
+  - title: Twitter
+    icon: twitter
+    color: '#70aecd'
+    link: https://twitter.com/33magmag
+  - title: Facebook
+    icon: facebook
+    color: '#7490c3'
+    link: https://www.facebook.com/Magali-Mane-Billiet-Naturopathe-258773195014938
+  - title: E-Mail
+    icon: envelope-at
+    color: '#db6b67'
+    link: mailto:magali@manebilliet.com
+  - title: Téléphone
+    icon: telephone
+    color: '#dcad8b'
+    link: tel:+33683096364
+  - title: WhatsApp
+    icon: whatsapp
+    color: '#128C7E'
+    link : https://wa.me/33683096364
+  - title: Doctolib
+    icon: calendar3
+    color: '#da83ae'
+    link: https://www.doctolib.fr/naturopathe/paris/magali-billiet?utm_medium=referral&utm_campaign=website-button&utm_content=option-1&utm_term=magali-billiet&utm_source=magali-billiet-website-button
+
+bottom:
+  - title: '&copy; 2022 Magali Mâne-Billiet'
+  - title: Mentions légales
+    link: /mentions-legales
+  - title: CGV
+    link: /cgv
+  - title: Tarifs Hors Taxe (TVA non applicable, art. 293B du CGI)

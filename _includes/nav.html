@@ -1,0 +1,39 @@
+<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/#">Naturopathe à Chatou</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarCollapse">
+      <ul class="navbar-nav me-auto mb-2 mb-md-0">
+        {% for item in site.data.menus.top %}
+        {% if item.submenu %}
+        <li class="nav-item dropdown">
+          <a class="nav-link{% if item.link == page.url %} active {% endif %} dropdown-toggle" data-bs-toggle="dropdown" href="{{ item.link }}">{{ item.title }}</a>
+          <ul class="dropdown-menu">
+            {% for subitem in item.submenu %}
+            <li><a class="dropdown-item" href="{{ subitem.link }}">{{ subitem.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </li>
+        {% else %}
+        <li class="nav-item">
+          <a class="nav-link{% if item.link == page.url %} active {% endif %}" href="{{ item.link }}">
+            {% if item.icon %}
+            <i class="bi bi-{{ item.icon }}" aria-label="{{ item.title }}"></i>
+            {% else %}
+            {{ item.title }}
+            {% endif %}
+          </a>
+        </li>
+        {% endif %}
+        {% endfor %}
+    </ul>
+    </div>
+    <div class="d-flex">
+      <ul class="mb-0">
+        <li class="btn btn-outline-success" onclick="window.open('{{ site.data.links.doctolib.url }}', '_current')"><i class="bi bi-calendar3"></i> Rendez-vous</li>
+      </ul>
+    </div>
+</div>
+</nav>

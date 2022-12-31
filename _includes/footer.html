@@ -1,19 +1,39 @@
-<!-- Footer -->
-<footer id="footer">
+<div class="container">
+    <footer class="py-3 my-4">
+        <ul class="nav justify-content-center pb-3 mb-3">
+            {% for item in site.data.menus.social %}
+            <li class="nav-item">
+                {% if item.link %}
+                <a href="{{ item.link }}" class="nav-link px-2 text-muted">
+                    {% if item.icon %}
+                    <i class="bi bi-{{ item.icon }}" aria-label="{{ item.title }}" style="
+                        font-size: 1.25em;
+                        background: {{ item.color }};
+                        color: #fff;
+                        padding: 10px 12px;
+                        border-radius: 100%;
+                    "></i>
+                    {% else %}
+                    {{ item.title }}
+                    {% endif %}
+                </a>
+                {% else %}
+                <span class="nav-link px-2 text-muted">{{ item.title }}</span>
+                {% endif %}
+            </li>
+            {% endfor %}
+        </ul>
 
-    <ul class="icons">
-        <li><a title="Compte twitter" href="https://twitter.com/33magmag" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
-        <li><a title="Page Facebook" href="https://www.facebook.com/Magali-Mane-Billiet-Naturopathe-258773195014938" class="icon circle fa-facebook"><span class="label">Facebook</span></a></li>
-        <li><a title="Contactez-moi par e-mail" href="mailto:magali@manebilliet.com" class="icon circle fa-envelope-o"><span class="label">Email</span></a></li>
-        <li><a title="Contactez-moi par téléphone" href="tel:+33683096364" class="icon circle fa-phone"><span class="label">Téléphone</span></a></li>
-        <li><a title="Prenez rendez-vous en ligne" href="{{ site.doctolib.link }}" class="icon circle fa-calendar"><span class="label">Rendez-vous</span></a></li>
-    </ul>
-
-    <ul class="copyright">
-        <li>&copy; {{ 'now' | date: "%Y" }} Magali Mâne-Billiet</li>
-        <li><a href="/mentions-legales">Mentions légales</a></li>
-        <li><a href="/cgv">CGV</a></li>
-        <li>Tarifs Hors Taxe (TVA non applicable, art. 293B du CGI)</li>
-    </ul>
-
-</footer>
+        <ul class="nav justify-content-center pb-3 mb-3">
+            {% for item in site.data.menus.bottom %}
+            <li class="nav-item">
+                {% if item.link %}
+                <a href="{{ item.link }}" class="nav-link px-2 text-muted" style="text-decoration: underline;">{{ item.title }}</a>
+                {% else %}
+                <span class="nav-link px-2 text-muted">{{ item.title }}</span>
+                {% endif %}
+            </li>
+            {% endfor %}
+        </ul>
+    </footer>
+</div>

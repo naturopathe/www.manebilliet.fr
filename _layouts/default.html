@@ -1,19 +1,22 @@
 <!DOCTYPE html>
 <html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ site.title }}</title>
+  <link rel="stylesheet" href="/css/styles.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+</head>
+<body>
+  {% include nav.html %}
 
-  {% include head.html %}
-
-  <body class="no-sidebar">
-
-    {% include header.html %}
-    {% if page.banner %}
-        {%include banner.html %}
-    {% endif %}
-    <div class="page-content">
-        {{ content }}
+  <main class="container">
+    <div class="bg-light p-5 rounded">
+      {{ content }}
     </div>
-    {% include footer.html %}
+  </main>
 
-  </body>
+  {% include footer.html %}
 
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+</body>
 </html>
