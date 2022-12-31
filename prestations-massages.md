@@ -12,7 +12,7 @@ permalink: /prestations-de-naturopathie/massages
 
 - **Massage 60’**   (prévoir 1h30 sur place) : **80 €**     
 - **Massage 90’**   (prévoir 2h sur place)  : **120 €**
-- **Massage 30’**   (prévoir 45’ sur place) : **45 €**
+- **Massage 30’**   (prévoir 45’ sur place) : **50 €**
 - **KoBiDo 60’**    (prévoir 1h30 sur place) : **80 €**
 
 **OFFRE CADEAU**\* :
