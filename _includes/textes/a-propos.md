@@ -7,8 +7,10 @@ et membre de l'[OMNES](https://www.omnes.fr/ "Organisation de la Médecine Natur
 
 Je suis formée à l’utilisation des plantes médicinales et comestibles, avec “le chemin de la nature".
 
+{% comment %}
 J'interviens également chez Aroma Zone comme conseillère en huiles essentielles, huiles végétales et
 argiles.
+{% endcomment %}
 
 Dans mon ancienne vie, j’étais chef de projet marketing. Mon évolution dans ce monde a été remplie
 d’expériences très intéressantes et enrichissantes.
