@@ -9,8 +9,8 @@ special:
 ---
 
 
-Les présentes conditions générales de vente s’appliquent à toutes les prestations de services qui sont réservées par téléphone ou par mail directement auprès de Magali MANE-BILLIET ou par Resalib. Tout visiteur du site, intéressé par ces prestations de service a accès aux présentes CGV sur le site internet https://www.manebilliet.fr  et les reçoit par mail, envoyé par Resalib, lors de la confirmation du rendez-vous, s’il a renseigné son adresse mail. 
-Tous les rendez-vous de consultations pris par mail ou téléphone sont enregistrés et centralisés, par Madame Magali Mâne-Billiet, dans Resalib, hors interventions pour des ateliers-conférences.
+Les présentes conditions générales de vente s’appliquent à toutes les prestations de services qui sont réservées par téléphone ou par mail directement auprès de Magali MANE-BILLIET ou par Resalib.fr. Tout visiteur du site, intéressé par ces prestations de service a accès aux présentes CGV sur le site internet https://www.manebilliet.fr  et les reçoit par mail, envoyé par Resalib.fr, lors de la confirmation du rendez-vous, s’il a renseigné son adresse mail.  
+Tous les rendez-vous de consultations pris par mail ou téléphone sont enregistrés et centralisés, par Madame Magali Mâne-Billiet, dans Resalib.fr, hors interventions pour des ateliers-conférences.
 
 ### AVERTISSEMENT
 Les conseils et recommandations prodigués par Madame Magali Mâne-Billiet ne se substituent en aucun cas à l’avis du médecin, et ne doivent en aucun cas être considérés comme une incitation à suspendre ou modifier des traitements médicaux en cours. La naturopathie et l’auriculothérapie sont complémentaires et non alternatives à la médecine allopathique.  
@@ -23,8 +23,8 @@ La description des prestations proposées par Madame Magali Mâne-Billiet est di
 
 ### ARTICLE 1 - Champs d’application
 Les présentes conditions générales de vente de services s’appliquent, sans restriction ni réserve à l’ensemble des prestations proposées par Madame Magali Mâne-Billiet.  
-La prise de rendez-vous pour les prestations suivantes : consultations de naturopathie, séances d’auriculothérapie, séances de techniques de relaxation et  gestion du stress, massages bien-être, peut se faire par téléphone ou par mail directement auprès de Madame Magali Mâne-Billiet ou par Resalib.  
-Les  consultations de naturopathie, séances d’auriculothérapie, séances de techniques de relaxation et gestion du stress peuvent être proposées en cabinet, à domicile ou en visio-consultation. Les massages bien-être sont proposés en cabinet uniquement.
+La prise de rendez-vous pour les prestations suivantes : consultations de naturopathie, séances de techniques de relaxation et  gestion du stress, massages bien-être, peut se faire par téléphone ou par mail directement auprès de Madame Magali Mâne-Billiet ou par Resalib.fr.  
+Les  consultations de naturopathie, séances de techniques de relaxation et gestion du stress peuvent être proposées en cabinet, à domicile ou en visio-consultation. Les massages bien-être sont proposés en cabinet uniquement.  
 Les ateliers-conférences pour particuliers et entreprises peuvent être proposés sur site ou en visioconférence, via un outil défini à l’avance.
 
 ### ARTICLE 2 - Mentions légales
@@ -32,7 +32,7 @@ Madame Magali Mâne-Billiet
 Auto-entrepreneur  
 Adresse du cabinet : 7 rue Max Roujou, 78400 CHATOU  
 Adresse siège social : 7 rue Max Roujou, 78400 CHATOU  
-Adresse e-mail : manebilliet@gmail.com  
+Adresse mail : manebilliet@gmail.com  
 Coordonnées téléphoniques : 06 83 09 63 64  
 SIREN/ SIRET 848 169 090 000 34, APE 8690F.
 
@@ -42,7 +42,7 @@ Responsable de la rédaction :  Magali Mâne-Billiet
 Hébergeur : Github Pages - 88 Colin P Kelly Junior Street, San Francisco, CA 94107, United States
 
 ### ARTICLE 3 - Prise de rendez-vous
-La prise de rendez-vous pour les prestations suivantes : consultations de naturopathie, auriculothérapie, séances de techniques de relaxation et gestion du stress, massages bien-être, peut se faire par téléphone ou par mail directement auprès de Madame Magali Mâne-Billiet ou par Resalib.  
+La prise de rendez-vous pour les prestations suivantes : consultations de naturopathie, séances de techniques de relaxation et gestion du stress, massages bien-être, peut se faire par téléphone ou par mail directement auprès de Madame Magali Mâne-Billiet ou par Resalib.fr.  
 Pour réserver une ou plusieurs prestations, le/la client(e) doit donner les informations suivantes :
 - choix de la prestation et acceptation du prix
 - demande de la date et de l’heure
@@ -68,7 +68,7 @@ Les services réservés par le client seront fournis à la date et à l'heure va
 Les consultations et massages bien-être proposés par Madame Magali Mâne-Billiet ne sont ni à but thérapeutique ni à but médical. Leur unique objectif est celui du bien-être.
  
 ### ARTICLE 6 - Report, annulation et modification d’un rendez-vous
-Le report, l’annulation ou la modification d’un rendez-vous sont possibles via la plateforme Resalib ou en adressant un courriel à manebilliet@gmail.com ou par téléphone au 06 83 09 63 64.
+Le report, l’annulation ou la modification d’un rendez-vous sont possibles via la plateforme Resalib.fr ou en adressant un courriel à manebilliet@gmail.com ou par téléphone au 06 83 09 63 64.
  
 ### ARTICLE 7 - Protection des informations personnelles
 En application de la loi n° 78-17 du 6 janvier 1978, il est rappelé que les données nominatives qui sont demandées sont nécessaires à la prise de rendez-vous et sont exclusivement destinées à la gestion des clients par Madame Magali Mâne-Billiet  
