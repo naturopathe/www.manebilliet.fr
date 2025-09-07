@@ -9,7 +9,7 @@ permalink: /consulter-un-naturopathe
 
 ## CONSULTATIONS
 
-### PREMIERE CONSULTATION (1h30) : 90€
+### PREMIERE CONSULTATION (2h) : 100€
 
 L’objectif de cette première séance est d’évaluer votre terrain, vos forces, vos fragilités et la capacité
 d’élimination de vos organes émonctoires. L’approche est holistique et prend en compte votre
@@ -24,7 +24,7 @@ afin de définir votre tempérament. Vous restez habillé(e))
 A chaque étape du programme d’hygiène de vie, une fiche de conseils naturopathiques, adaptés et
 personnalisés, vous sera remise. Lien vers page : les techniques
 
-### SEANCES DE SUIVI (1h15) : 75€
+### SEANCES DE SUIVI (1h30) : 80€
 
 Ces séances permettent de faire le point sur :
 - la manière dont vous vous sentez et ce qui a changé,
@@ -34,3 +34,5 @@ Ces séances permettent de faire le point sur :
 - de franchir de nouvelles étapes de votre programme d’hygiène de vie.
 
 Une fiche de conseils personnalisée vous sera remise à la fin de chaque séance.
+
+### SEANCE GESTION DU STRESS (1h) : 70€

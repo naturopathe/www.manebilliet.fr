@@ -100,3 +100,23 @@ Le Client reconnaît avoir eu communication, préalablement à l'achat immédiat
 -  les fonctionnalités du contenu numérique et, le cas échéant, à son interopérabilité ; 
 -  la possibilité de recourir à une médiation conventionnelle en cas de litige.  
 Le fait pour une personne physique (ou morale) de commander un Service emporte adhésion et acceptation pleine et entière des présentes Conditions Générales de Vente et obligation au paiement des Services commandés, ce qui est expressément reconnu par le Client, qui renonce, notamment, à se prévaloir de tout document contradictoire, qui serait inopposable au Prestataire.
+
+### ARTICLE 12 - Règlement Général sur la Protection des Données Personnelles<br/>Information aux personnes concernées
+
+Afin d’assurer votre suivi naturopathique et de vous garantir un accompagnement le plus adapté à votre situation, votre naturopathe est amené à recueillir et à conserver dans un dossier des informations personnelles (coordonnées, antécédents médicaux, traitements en cours, situation personnelle et professionnelle, suivis thérapeutiques).
+
+Ce dossier confidentiel permet la continuité de votre accompagnement et son adéquation à vos besoins et demandes.
+
+Il est conservé pendant 3 ans à compter de la date de votre dernier rendez-vous. 
+
+Seuls ont accès aux informations figurant dans votre dossier : votre naturopathe.
+
+Avec votre consentement, votre naturopathe pourra transmettre à des professionnels de santé ou à des thérapeutes qui vous suivent des informations concernant votre état de santé ou vos conseils naturopathiques pour un accompagnement pluridisciplinaire.
+
+Vous pouvez accéder aux informations figurant dans votre dossier.
+
+Vous disposez aussi, et sous certaines conditions, de droits de rectification et d’effacement de ces informations ou du droit de vous opposer ou de limiter leur utilisation.
+
+Pour toute question relative à la protection de vos données ou pour exercer vos droits, vous pouvez vous adresser directement à votre naturopathe.
+
+En cas de difficultés, vous pouvez également saisir la Commission nationale de l’informatique et des libertés (CNIL) d’une réclamation.
