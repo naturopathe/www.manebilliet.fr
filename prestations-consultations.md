@@ -7,9 +7,9 @@ special:
 permalink: /consulter-un-naturopathe
 ---
 
-## CONSULTATIONS
+## Consultations
 
-### PREMIERE CONSULTATION (2h) : 100€
+### Première consultation (2h) : 100€
 
 L’objectif de cette première séance est d’évaluer votre terrain, vos forces, vos fragilités et la capacité
 d’élimination de vos organes émonctoires. L’approche est holistique et prend en compte votre
@@ -24,7 +24,7 @@ afin de définir votre tempérament. Vous restez habillé(e))
 A chaque étape du programme d’hygiène de vie, une fiche de conseils naturopathiques, adaptés et
 personnalisés, vous sera remise. Lien vers page : les techniques
 
-### SEANCES DE SUIVI (1h30) : 80€
+### Séance de suivi (1h30) : 80€
 
 Ces séances permettent de faire le point sur :
 - la manière dont vous vous sentez et ce qui a changé,
@@ -35,4 +35,17 @@ Ces séances permettent de faire le point sur :
 
 Une fiche de conseils personnalisée vous sera remise à la fin de chaque séance.
 
-### SEANCE GESTION DU STRESS (1h) : 70€
+### Séance gestion du stress - relaxation (1h) : 70€
+
+Le stress est une réaction naturelle de l’organisme. Mais il peut rapidement devenir envahissant : tensions physiques, agitation mentale, troubles du sommeil et fatigue, difficultés à se concentrer,… Pourtant, il est possible d’apprendre à le réguler et à retrouver un état de sérénité durable.
+
+Lors de nos séances individuelles, vous bénéficiez d’un accompagnement personnalisé qui vous permet de :
+
+- Identifier vos sources de stress et leurs impacts dans votre quotidien
+- Apprendre des techniques simples et efficaces pour apaiser le corps et l’esprit
+- Développer de nouvelles habitudes pour renforcer votre équilibre intérieur
+- Retrouver confiance, clarté d’esprit et énergie positive
+
+Chaque séance est adaptée à vos besoins et à votre rythme. 
+
+L’objectif est de vous offrir un espace bienveillant où vous pouvez souffler, relâcher les tensions et repartir avec des outils concrets pour mieux vivre vos journées.
