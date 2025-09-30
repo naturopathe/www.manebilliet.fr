@@ -1,8 +1,9 @@
-## Le naturopathe enseigne les règles d'hygiène de vie
+## NATUROPATHIE, QU’EST CE QUE C’EST ?
 
-L’O.M.S, qui définit  la santé pour l’individu comme un « état complet de bien-être  physique, mental et social », considère que "la naturopathie est un ensemble de méthodes de soins visant à renforcer les défenses de l'organisme par des moyens considérés comme naturels et biologiques".
+Éducative et préventive
 
-L'approche naturopathique est holistique et a pour mission de :
-- prendre en compte l’individu dans sa globalité physique, psychique, socioculturelle et émotionnelle
-- identifier les causes des dérèglements pour agir à la source
-- donner des conseils personnalisés qui tendent à s’intégrer au mieux à vos contraintes et motivations.
+La naturopathie est reconnue comme « médecine non conventionnelle » par la Résolution Européenne du 29 mai 1997 en faveur de l'intégration des « médecines non conventionnelles » et comme « médecine traditionnelle » par l'O.M.S, aux côtés des médecines chinoise et ayurvédique.
+
+Elle s'inscrit dans une dynamique de complémentarité avec la médecine conventionnelle et avec les autres thérapies, au service d'une approche intégrée de la santé. À la fois éducative et préventive, la naturopathie constitue une synthèse des méthodes naturelles de santé. 
+
+Elle s'appuie sur les lois de la vie afin d'équilibrer le fonctionnement de l'organisme, d'optimiser la vitalité et de retrouver, de maintenir ou de renforcer la bonne santé.

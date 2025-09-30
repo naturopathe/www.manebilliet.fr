@@ -17,6 +17,7 @@ permalink: /naturopathe
 <div style="float:left; padding:10px 20px 10px 0; max-width:100%"><img src="/images/magali-mane-billiet-400px.jpg" width="100%" alt="Photo portrait de Magali MANE-BILLIET, Naturopathe à Chatou et environs" /></div>
 
 Je suis naturopathe,  
+
 certifiée par l'école [ISUPNAT](https://isupnat-naturopathie.fr/ "Institut Supérieur de Naturopathie") (Institut Supérieur de Naturopathie de Paris),  
 certifiée par la [FENA](https://lafena.fr/ "Fédération Française des Ecoles de Naturopathie") (Fédération Française de Naturopathie),  
 membre de l'[OMNES](https://www.omnes.fr/ "Organisation de la Médecine Naturelle et de l'Education Sanitaire") (Organisation du Métier de Naturopathe Éducateur de Santé) qui est la principale organisation professionnelle de naturopathes en France,
