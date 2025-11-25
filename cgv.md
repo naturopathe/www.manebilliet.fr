@@ -85,7 +85,12 @@ Tous les documents, textes et informations présentes sur le site sont la propri
 Les présentes Conditions Générales de Vente sont soumises au droit français. En cas de litige, compétence est attribuée aux tribunaux compétents. Avant toute action en justice il sera fait recours à un service de médiation de la consommation (code de la consommation - Article L612-1) :  
 La médiation de la consommation désigne un processus de règlement extrajudiciaire des litiges, par lequel un consommateur et un professionnel tentent de parvenir à un accord pour résoudre à l’amiable un litige qui les oppose, avec l’aide d’un tiers, le médiateur. A défaut d'accord amiable entre les parties, le médiateur leur propose une solution pour régler le litige.  
 Il s’agit donc d’une alternative à l’action judiciaire souvent longue et coûteuse. Le consommateur garde néanmoins la possibilité de saisir le juge si la médiation n’aboutit pas.  
-Conformément aux articles L.616-1 et R.616-1 du code de la consommation, nous proposons un dispositif de médiation de la consommation. L'entité de médiation retenue est : CNPM - MEDIATION DE LA CONSOMMATION. En cas de litige, vous pouvez déposer votre réclamation sur son site : https://cnpm-mediation-consommation.eu ou par voie postale en écrivant à CNPM - MEDIATION - CONSOMMATION - 27 avenue de la libération - 42400 Saint-Chamond 
+Conformément aux articles L.616-1 et R.616-1 du code de la consommation, notre société a mis en place un dispositif de médiation de la consommation. L'entité de médiation retenue est : MEDIATION CONSOMMATION DÉVELOPPEMENT/MED CONSO DEV.  
+En cas de litige, vous pouvez déposer votre réclamation sur son site : https://www.medconsodev.eu ou par voie postale en écrivant à :  
+MEDIATION CONSOMMATION DÉVELOPPEMENT/MED CONSO DEV  
+Centre d’Affaires Stéphanois SAS  
+IMMEUBLE L’HORIZON – ESPLANADE DE FRANCE  
+3, RUE J. CONSTANT MILLERET – 42000 SAINT-ÉTIENNE
 
 ### ARTICLE 10 - Archivage des données
 Madame Magali Mâne-Billiet archive les factures et documents relatifs aux prestations effectuées sur un support fiable et durable constituant une copie fidèle conformément aux dispositions de l’article 1348 du Code civil.
