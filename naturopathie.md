@@ -76,15 +76,16 @@ Le massage est un excellent moyen de prendre soin de soi, se reconnecter à son 
 ### TECHNIQUES UTILISEES
 
 L'alimentation ou hygiène nutritionnelle (diététique, nutrition, cures saisonnières…)
-1. Gestion du mental (relaxation, gestion du stress, hygiène relationnelle, relation d'aide, psychothérapies brèves, sophrologie…)
-2. Les exercices physiques ou hygiène musculaire et émonctorielle
-3. L'hydrologie (utilisation de l'eau chaude, froide, tiède, alternée, locale, générale, interne, externe, argiles…)
-4. Les techniques manuelles (massages non médicaux : détente, drainant)
-5. Les techniques réflexes (reflexologie, méthodes de Knapp)
-6. Les techniques respiratoires (Bol d'air Jacquier, ionisations, diaphragmatique…)
-7. Phytologie (plantes, gemmologie et aromatologie)
-8. Les techniques énergétiques
-9. Les techniques vibratoires (actinologie, elixirs floraux, bols tibetains, musique).
+1. L'alimentation ou hygiène nutritionnelle (diététique,    nutrition, cures saisonnières…)
+2. Gestion du mental (relaxation, gestion du stress, hygiène relationnelle, conseils d'organisation, …)
+3. Les exercices physiques ou hygiène musculaire et émonctorielle
+4. L'hydrologie (utilisation de l'eau chaude, froide, tiède, alternée, locale, générale, argiles…)
+5. Les techniques manuelles (massages non médicaux : détente, drainant)
+6. Les techniques réflexes (reflexologie, méthodes de Knapp)
+7. Les techniques respiratoires (Bol d'air Jacquier, ionisations, diaphragmatique…)
+8. Phytologie (plantes, gemmologie et aromatologie)
+9. Les techniques énergétiques
+10. Les techniques vibratoires (actinologie, elixirs floraux, musique).
 
 Le naturopathe ne fait pas de diagnostic.
 
