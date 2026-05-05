@@ -15,16 +15,22 @@ Au service des entreprises, j'interviens sous plusieurs formes pour améliorer l
 
 Voici un avant goût des offres possibles mais n’hésitez pas à demander une intervention sur mesure :
 
-### Ateliers-conférences sur des thématiques santé-bien-être​
-- Gestion du stress 
-- Bien manger pour bien vivre
-- Le sommeil, un allié majeur
-- La respiration, source de santé
-- Huiles essentielles et immunité
-- Sujet sur mesure
+### Ateliers-conférences sur des thématiques santé-bien-être
 
-Effectif : Jusqu'à 100 personnes  
-Durée : modulable selon besoins
+**LES SUJETS SONT FAITS SUR MESURE SELON LES BESOINS DE L'ENTREPRISE.**
+
+Voici quelques exemples de sujets :
+
+- Gestion du stress et techniques de relaxation
+- Initiation à la santé mentale : vigilance et bons réflexes
+- Alimentation santé
+- Le sommeil / la micro-sieste
+- Optimiser son énergie et ses performances
+- Astuces pour remettre du mouvement au quotidien
+- Sujets sur mesure
+
+Durée : modulable selon besoins  
+Format : conférences et ateliers en présentiel, sur site
 
 ### Ateliers détente​
 - Relaxation guidée
